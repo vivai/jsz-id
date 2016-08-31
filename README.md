@@ -1,4 +1,4 @@
-# jst-uid
+# jsz-id
 
 Generators for universally unique ids, unique ids and ids.
 

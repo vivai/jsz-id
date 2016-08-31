@@ -1,6 +1,6 @@
 {
   "name": "jsz-id",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Generators for ids.",
   "keywords": "unique id ES6 flow",
   "author": "Marcus Kruse",
